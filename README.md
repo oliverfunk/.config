@@ -15,7 +15,8 @@ Configuration files for zsh prompt, terminal, and shell environment.
 
     ```sh
     git clone git@github.com:oliverfunk/.config.git "$HOME/.config-tmp" && \
-    rsync -a "$HOME/.config-tmp/" "$HOME/.config/"
+    rsync -a "$HOME/.config-tmp/" "$HOME/.config/" && \
+    rm -rf "$HOME/.config-tmp"
     ```
 
 3. Append the following line to the bottom of your `.zshrc` file to load your custom configuration:
