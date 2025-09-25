@@ -1,0 +1,10 @@
+mattmc3/zephyr path:plugins/prompt
+mattmc3/zephyr path:plugins/completion
+mattmc3/zephyr path:plugins/macos
+mattmc3/zephyr path:plugins/color
+mattmc3/zephyr path:plugins/history
+
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-completions
+zsh-users/zsh-syntax-highlighting
+zsh-users/zsh-history-substring-search
