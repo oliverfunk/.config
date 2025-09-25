@@ -1,0 +1,7 @@
+*
+!zsh/
+!zsh/**
+!wezterm/
+!wezterm/**
+!README.md
+!.gitignore
